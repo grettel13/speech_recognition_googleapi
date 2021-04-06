@@ -35,6 +35,6 @@ The high level steps walked through in the notebook are:
 # File Organization:
 - ```images``` - dir containing image on this readme
 - ```outputs``` - dir containing sample outputs from notebook
-- ```Speech-to-text.pdf``` - presentation delivered in [Metis bootcamp](www.thisismetis.com)
+- ```Speech-to-text.pdf``` - presentation delivered in [Metis bootcamp](https://www.thisismetis.com/)
 - ```fold_in_the_cheese.mp4``` - sample file used in jupyter notebook for transcription
 - ```speech_recognition.ipynb``` - notebook containing steps and syntax for working with google cloud speech-to-text API
